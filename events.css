@@ -1,0 +1,28 @@
+.blue {
+	color: blue;
+}
+
+.large {
+	font-size: 3em;
+}
+
+.border {
+	border: 2px dotted purple;
+}
+
+.radius {
+	border-radius: 30%;
+}
+
+section:first-of-type {
+	font-weight: bold;
+}
+
+section:last-of-type {
+	font-weight: bold;
+	font-style: italic;
+}
+
+button {
+	display: block;
+}
